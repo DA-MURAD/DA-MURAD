@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently learning R,Python, Data Science 
 - 💞️ I’m looking to collaborate on related projects 
-- 📫 [My Projects] (https://da-murad.github.io/Murad_Profile/)
+- 📫 [My Projects] (https://da-murad.github.io/Murad-Portfolio/))
 - 📫 How to reach me +966 532337968 or muradfarhan.bit@gmail.com
 - 
 <!---
